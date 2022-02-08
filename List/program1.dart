@@ -14,6 +14,7 @@ void main(List<String> args) {
   print("second list name $men\n");
   print("Spread operator list name $name1");
 
+  // access list items
   print(women[2]);
 
   print(women.runtimeType);
